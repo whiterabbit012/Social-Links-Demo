@@ -37,6 +37,11 @@ body {
     margin-block: 1.2em;
 }
 
+.link-box:hover {
+    color: hsl(0, 0%, 20%);
+    background-color: hsl(75, 94%, 57%);
+}
+
 img {
     width: 75px;
     border-radius: 75%;
